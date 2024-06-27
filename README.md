@@ -1,2 +1,2 @@
 # myntraClone
-Myntra Clone using React.js and backend
+Myntra Clone using React.js and realtime backend
